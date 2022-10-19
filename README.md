@@ -1,4 +1,4 @@
-# multi-flash
+# multi-flask
 # python版本3.10
 # 基于python-flask框架实现Prometheus采集对应设备IP的ping状态，相当于blackbox_exporter功能
 # 使用的ping工具：multiping
