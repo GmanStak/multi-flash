@@ -4,11 +4,11 @@
 # 使用的ping工具：multiping
 # 目录结构
 # mping
-#  |->bin
-#    |->multi-ping.py
-#  |->config
-#    |->config.cfg
-#  |->listfile
-#    |->ipList
+#--|->bin
+#----|->multi-ping.py
+#--|->config
+#----|->config.cfg
+#--|->listfile
+#----|->ipList
 # 可用外部参数：--ipaddress， --port
 # 地址访问：http://localhost:5000/metrics
