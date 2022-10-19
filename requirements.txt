@@ -1,0 +1,3 @@
+Flask==2.2.2
+multiping==1.1.2
+prometheus_client==0.15.0
