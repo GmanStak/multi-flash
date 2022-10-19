@@ -25,7 +25,7 @@ def getFile():
 
 @app.route('/')
 def index():
-    return "Hello World"
+    return "Prometheus get ping-status metrics！"
 
 @app.route("/metrics")
 def ping_status():
